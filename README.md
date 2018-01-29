@@ -31,7 +31,7 @@ class DIV extends React.Component {
 ```
 ### 2.If you need to drag a part of React Component
 ```javascript
-// only the red div can drag
+// can only drag the red div
 class DIV extends React.Component {
     render() {
         return (
